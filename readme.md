@@ -1,3 +1,3 @@
-# demo
+# Email Spam Detector
 
-Some Descriptions about the project
+
