@@ -1,5 +1,5 @@
 # Email Spam Detector
 
-In here, I have included a Email spam containing dataset. Using Machine Learning techiniques I have trained the model to predict whether it is spam or not for random emails. If it is spam it will output 1 else 0.
 
 
+![WhatsApp Image 2023-12-20 at 14 00 55_a4f8db2f](https://github.com/Husniahmed10/Email-Spam-Detector/assets/141121519/27797cac-a753-4cec-b8f1-7fee29bbedec)
