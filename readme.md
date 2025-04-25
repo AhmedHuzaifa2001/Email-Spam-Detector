@@ -16,7 +16,7 @@ Classification: Upon user input, the trained model predicts whether the email is
 ## Dependencies
 pandas for data manipulation.  
 scikit-learn for machine learning functionalities.   
-tkinter for building the GUI.  
+
   
 
 ![spam img](https://github.com/Husniahmed10/Email-Spam-Detector/assets/141121519/da3dbb0d-04c1-447e-bab0-d47918f6ce96)
